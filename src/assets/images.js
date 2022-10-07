@@ -10,6 +10,9 @@ import tableau5 from "./tableau5.jpg";
 import tableau6 from "./tableau6.jpg";
 import tableau7 from "./tableau7.jpeg";
 import tableau8 from "./tableau8.jpg";
+import artwork from "./artwork.png";
+import upload from "./upload.png";
+import listing from "./listing.png";
 
 export {
   profileAvatar,
@@ -24,4 +27,7 @@ export {
   tableau6,
   tableau7,
   tableau8,
+  artwork,
+  upload,
+  listing,
 };
