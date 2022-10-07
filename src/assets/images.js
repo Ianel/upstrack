@@ -13,8 +13,24 @@ import tableau8 from "./tableau8.jpg";
 import artwork from "./artwork.png";
 import upload from "./upload.png";
 import listing from "./listing.png";
+import lizhangCover from "./lizhang.webp";
+import kevinCover from "./kevin.jpg";
+import lironaCover from "./lirona.jpg";
+import jenstarkCover from "./jenstark.jpg";
+import avatarJen from "./pexels-jen.jpg";
+import avatarKevin from "./pexels-kevin.jpg";
+import avatarLi from "./pexels-li.jpg";
+import avatarLirona from "./pexels-lirona.jpg";
 
 export {
+  lizhangCover,
+  kevinCover,
+  lironaCover,
+  jenstarkCover,
+  avatarJen,
+  avatarKevin,
+  avatarLi,
+  avatarLirona,
   profileAvatar,
   profilePicture,
   smiley,

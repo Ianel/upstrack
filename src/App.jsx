@@ -1,4 +1,5 @@
 import React from "react";
+import Artists from "./components/Artists";
 import Collections from "./components/Collections";
 import Header from "./components/Header";
 import MarketPlace from "./components/MarketPlace";
@@ -11,6 +12,7 @@ function App() {
       <MarketPlace />
       <Subscription />
       <Collections />
+      <Artists />
     </div>
   );
 }
