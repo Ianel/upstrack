@@ -17,7 +17,7 @@ const MarketPlace = () => {
   ];
 
   return (
-    <div className="mt-32 px-12">
+    <div className="mt-32 pt-12 px-12" id="marketplace">
       <h2 className="text-center text-primary text-sm font-bold">
         OUR MARKETPLACE
       </h2>

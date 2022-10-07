@@ -5,7 +5,7 @@ import Navbar from "./Navbar";
 const Header = () => {
   return (
     <header className="h-screen">
-      <Navbar />
+      <Navbar type="Top" />
       <Hero />
     </header>
   );

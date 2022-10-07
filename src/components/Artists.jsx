@@ -4,7 +4,7 @@ import ArtistCard from "./ArtistCard";
 
 const Artists = () => {
   return (
-    <section className="px-12">
+    <section className="px-12 pt-6" id="creator">
       <h2 className="text-primary text-center font-semibold">
         ARTISTS DELIVERING THE BEST
       </h2>
