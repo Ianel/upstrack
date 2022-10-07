@@ -25,15 +25,15 @@ const MarketPlace = () => {
       <div className="my-8 flex flex-row justify-between items-center">
         {categories.map((category) => {
           return (
-            <span
+            <button
               className={
                 category.active
                   ? "text-white bg-primary px-4 py-2 rounded-sm"
-                  : "text-primary font-bold bg-accent px-4 py-2 rounded-sm"
+                  : "text-primary font-bold bg-accent px-4 py-2 rounded-sm hover:text-white hover:bg-primary"
               }
             >
               {category.title}
-            </span>
+            </button>
           );
         })}
       </div>
