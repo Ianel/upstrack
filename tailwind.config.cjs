@@ -12,6 +12,7 @@ module.exports = {
         secondary: "#232323",
         tertiary: "#747474",
         accent: "rgba(254, 140, 103, 0.2)",
+        secondAccent: "rgba(54, 54, 54, 1)",
       },
     },
   },

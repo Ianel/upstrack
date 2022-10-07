@@ -48,6 +48,9 @@ const MarketPlace = () => {
           );
         })}
       </div>
+      <button className="border-2 border-tertiary px-4 py-2 mt-8 mb-12 mx-auto block">
+        View More
+      </button>
     </div>
   );
 };
